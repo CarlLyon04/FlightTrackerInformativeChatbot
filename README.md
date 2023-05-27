@@ -25,7 +25,7 @@ Flight Tracker Informative Chatbot - How to install required dependencies and ru
 Important Notes
 -------------------------------------------------------------------------
 
-1: In order to obtain a flight hex code, go to this link https://opensky-network.org/aircraft-database, and browse through the list of aircrafts to choose a hex code (icao24)
+1: In order to obtain a flight hex code, go to this link https://opensky-network.org/aircraft-database or https://opensky-network.org/network/explorer, and browse through the list of aircrafts to choose a hex code (icao24)
 
 2: The program was developed using pycharm.
 
