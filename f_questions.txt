@@ -1,0 +1,13 @@
+What is the icao24?
+What is the callsign?
+What is the origin country?
+What is the time position?
+When was the last contact made?
+What is the longitude?
+What is the latitude?
+What is the baro altitude?
+Is it on the ground?
+What is the velocity?
+What is the geo altitude of the plne?
+What is the squawk?
+What is the SPI?
