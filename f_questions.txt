@@ -8,6 +8,6 @@ What is the latitude?
 What is the baro altitude?
 Is it on the ground?
 What is the velocity?
-What is the geo altitude of the plne?
+What is the geo altitude of the plane?
 What is the squawk?
 What is the SPI?
