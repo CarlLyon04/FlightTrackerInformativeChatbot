@@ -20,7 +20,7 @@ Flight Tracker Informative Chatbot - How to install required dependencies and ru
 5: Scikit-learn Library: In the command prompt terminal, type 'pip3 install scikit-learn'.
 
 
-6: Run the FlightTrackerInformativeChatBot.py file (Note: May take a few seconds to load on initial run)
+6: Run the FlightTrackerInformativeChatBot.py file in python's IDLE or Pycharm(Note: May take a few seconds to load on initial run)
 
 Important Notes
 -------------------------------------------------------------------------
